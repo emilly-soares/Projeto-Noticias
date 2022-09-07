@@ -1,3 +1,3 @@
 <?php
-     include_once("View/index.html");
+     include_once("index.html");
 ?>
