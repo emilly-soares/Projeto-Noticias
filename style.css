@@ -1,0 +1,111 @@
+body {
+   font-family: 'Roboto', sans-serif;
+}
+
+#menu {
+   background-color: #184e75;
+}
+
+#item {
+   color: white;
+}
+
+#item:hover {
+   color: rgb(45, 153, 185);
+   ;
+}
+
+#button-search:hover {
+   background-color: rgb(45, 153, 185);
+}
+
+#button-search {
+   color: white;
+   border-color: white;
+}
+
+#button-toggler {
+   color: white;
+   border-color: white;
+}
+
+a {
+   cursor: pointer;
+}
+
+.banner-notice {
+   width: 90%;
+   margin: 5%;
+   margin-top: 50px;
+   display: flex;
+   justify-content: space-between;
+}
+
+#img-notice {
+   margin-right: 2%;
+}
+
+.top-news {
+   width: 90%;
+   display: flex;
+   margin-left: 4%;
+   justify-content: center;
+   margin-bottom: 25px;
+}
+
+.carousel {
+   width: 90%;
+   margin-left: 5%;
+   display: flex;
+   justify-content: center;
+}
+
+.carousel-img {
+   width: 70%;
+}
+
+.card-container {
+   margin-top: 15px;
+   display: flex;
+   justify-content: center;
+}
+
+#card-item {
+   margin-bottom: 25px;
+   align-items: center;
+}
+
+.title-notice,
+.title-collaborate {
+   display: flex;
+   justify-content: center;
+   margin-top: 1%;
+
+}
+
+.form-collaborate {
+   display: flex;
+   justify-content: center;
+   width: 100%;
+   margin-bottom: 25px;
+   margin-top: 30px;
+}
+
+.form-collaborate-center {
+   width: 50%;
+}
+
+#enviar {
+   display: flex;
+   justify-content: center;
+}
+
+img {
+   transition: all 0.5s;
+   cursor: pointer;
+}
+
+img:hover {
+   -webkit-transform: scale(1.05);
+   transform: scale(1.05);
+}
