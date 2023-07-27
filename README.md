@@ -14,7 +14,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 - CSS
 
 ### Deploy 
-🔗🚀
+🔗[![Netlify Status](https://api.netlify.com/api/v1/badges/2171801e-e1f4-4d26-9aea-acba1a7847b2/deploy-status)](https://app.netlify.com/sites/projeto-noticias/deploys)🚀
 
 ### Imagens
 
