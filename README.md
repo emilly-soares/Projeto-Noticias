@@ -1,5 +1,5 @@
 <h1>Projeto Noticias </h1>
-<h2>Desenvolvido na disciplina: Desenvolvimento Web I</h2>
+<h6>Desenvolvido na disciplina: Desenvolvimento Web I</h6>
 🚧 🚀 Construído ... 🚧
 <p align="center">
   <a href="#Tecnologia">Tecnologia</a> • 
